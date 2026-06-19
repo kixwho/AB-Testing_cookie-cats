@@ -10,9 +10,4 @@ Data validation included checks for missing values, duplicate users, and basic s
 
 <img width="513" height="344" alt="image" src="https://github.com/user-attachments/assets/77512212-df20-48e9-ae8a-99708985d69d" />
 
-checked stdev-->Control group has a much higher stdev, ~2.5x that of treatment group
-average>>median for both groups, suggesting
-comparing quartiles-->roughly similar
-anomaly investigation-->discovered outlier threshold empirically
-
 # Python analysis
