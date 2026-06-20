@@ -35,11 +35,11 @@ To investigate whether this difference was driven by a handful of “whale” pl
 
 One extreme observation reported 49,854 game rounds within a 14-day period. Given the implied playtime requirements, this record was treated as an anomaly and excluded from further analysis. Gameplay values above 3,000 rounds were also removed as extreme outliers.
 
-        In this instance of extraordinary player engagement, 49854 game rounds were reported during a 14-day period.
+        In one instance of extraordinary player engagement, 49854 game rounds were reported during a 14-day period.
       Which could only happen if a player finishes every game in 25 seconds, restlessly battle through 14 days with
       absolutely no break in between!
 
-The primary statistical analysis focused on sum_gamerounds, a continuous KPI that provides more granular information than binary retention metrics. Welch’s t-test found no statistically significant difference between groups (p ≈ 0.95), suggesting similar overall engagement.
+The primary statistical analysis focused on sum_gamerounds, a continuous KPI that offers more granular insights than binary retention metrics. Welch’s t-test found no statistically significant difference between groups (p ≈ 0.95), suggesting similar overall engagement.
 
 <img width="501" height="325" alt="image" src="https://github.com/user-attachments/assets/4327c2de-114a-4e57-8154-810ee64f51ff" />
 
