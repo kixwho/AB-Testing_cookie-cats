@@ -28,7 +28,7 @@ Initial SQL exploration showed that the variant group underperformed the control
 
 <img width="513" height="344" alt="image" src="https://github.com/user-attachments/assets/77512212-df20-48e9-ae8a-99708985d69d" />
 
-To investigate whether this difference was driven by a small number of highly engaged players, distribution characteristics were examined. While the control group showed substantially higher variance, quartile analysis suggested the difference was not limited to a handful of “whale” players.
+To investigate whether this difference was driven by a handful of “whale” players, distribution characteristics were examined. While the control group showed substantially higher variance, quartile analysis suggested the difference was global.
 
 One extreme observation reported 49,854 game rounds within a 14-day period. Given the implied playtime requirements, this record was treated as an anomaly and excluded from further analysis. Gameplay values above 3,000 rounds were also removed as extreme outliers.
 
