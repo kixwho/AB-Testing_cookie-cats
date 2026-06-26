@@ -41,7 +41,7 @@ One extreme observation reported 49,854 game rounds within a 14-day period. Give
 
 The primary statistical analysis focused on sum_gamerounds, a continuous KPI that offers more granular insights than binary retention metrics. Welch’s t-test found no statistically significant difference between groups (p ≈ 0.95), suggesting similar overall engagement.
 
-<img width="501" height="325" alt="image" src="https://github.com/user-attachments/assets/4327c2de-114a-4e57-8154-810ee64f51ff" />
+<img width="570" height="433" alt="image" src="https://github.com/user-attachments/assets/0bceb0ca-a801-4b8b-843d-6b96e4853487" />
 
 Retention outcomes were then evaluated using chi-square tests. Day-1 retention was not statistically significant. However, day-7 retention showed a statistically significant decline in the variant group, corresponding to an approximate 4.3% relative decrease.
 
